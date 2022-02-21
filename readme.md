@@ -13,6 +13,8 @@ Step Three: Run it with either
 - `python stock.py [STOCK_SYMBOL]`
 - `python stock.py`, then fills the prompt with the stock symbol.
 
+Example: `python stock.py AAPL # doesn't need to be uppercase.`
+
 ## Things I use
 IDE: JetBrains PyCharm Community Edition  
 OS: Windows 10  
